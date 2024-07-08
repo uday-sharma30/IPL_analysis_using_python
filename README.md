@@ -5,5 +5,7 @@ This project involves a comprehensive analysis of IPL data to uncover key perfor
 To Run:
 
 Ensure you have Python and Jupyter Notebook installed.
+
 Clone this repository and navigate to the project directory.
+
 Open the Jupyter Notebook file (IPL_analysis_using_python.ipynb) and execute each cell sequentially to reproduce the analyses.
